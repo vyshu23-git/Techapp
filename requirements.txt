@@ -1,7 +1,8 @@
 streamlit
-opencv-python
-deepface
+opencv-python-headless
 transformers
 torch
-SpeechRecognition
+deepface
+speechrecognition
 pyaudio
+numpy
