@@ -4,5 +4,4 @@ transformers
 torch
 deepface
 speechrecognition
-pyaudio
 numpy
